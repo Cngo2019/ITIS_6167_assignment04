@@ -1,0 +1,23 @@
+{
+  "name": "itis_6167_assignment04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cngo2019/ITIS_6167_assignment04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cngo2019/ITIS_6167_assignment04/issues"
+  },
+  "homepage": "https://github.com/Cngo2019/ITIS_6167_assignment04#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.21.2"
+  }
+}
