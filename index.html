@@ -28,7 +28,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xs-12">
-					<button type="submit" onClick="sendPost">Submit</button>
+					<button type="submit" onclick="sendPost()">Submit</button>
 				</div>
 			</div>
 		</div>
@@ -57,7 +57,7 @@
 		}
 
 	    function sendPost() {
-
+			console.log("clicked")
 			const title = document.getElementById('title').value;
 			const author = document.getElementById('author').value;
 			const req = {

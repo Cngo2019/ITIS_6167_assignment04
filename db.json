@@ -1,9 +1,27 @@
 {
   "posts": [
-    { "id": "1", "title": "a title", "views": 100, "author": "Can Ngo"}
+    {
+      "id": "1",
+      "title": "a title",
+      "author": "Can Ngo"
+    },
+    {
+      "id": "795b",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "23ad",
+      "title": "someone",
+      "author": "someone"
+    }
   ],
   "comments": [
-   { "id": "1", "text": "a comment about post 1", "postId": "1" }
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    }
   ],
   "profile": {
     "name": "typicode"
